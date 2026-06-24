@@ -1,4 +1,4 @@
-<h1 align="center">👋 Assalamu'alaikum, I'm Khidhir</h1>
+<h1 align="center">👋 Hello I'm Khidhir</h1>
 
 <p align="center">
 Building useful things with code.
