@@ -1,7 +1,7 @@
 <h1 align="center">Khidhir</h1>
 
 <p align="center">
-backend developer • information systems student
+AI, frontend developer backend developer • information systems student
 </p>
 
 <br>
