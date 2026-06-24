@@ -1,47 +1,44 @@
-<h1 align="center">👋 Hello I'm Khidhir</h1>
+<h1 align="center">Khidhir</h1>
 
 <p align="center">
-Building useful things with code.
+backend developer • information systems student
 </p>
 
 <br>
 
 ```txt
-🎓 Information Systems Student
-⚙️ Backend Developer
-🌱 Learning System Design & Docker
-🚀 Building Me-Nulis
+> currently
+
+building me-nulis
+learning system design
+exploring docker & devops
+trying not to overengineer everything
 ```
 
-### About
-
-Currently interested in backend engineering, distributed systems, and building software that solves real problems.
-
-### Stack
+### stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,cpp,python,postgresql,mysql,docker,git,linux,vscode&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,cpp,python,postgresql,mysql,docker,git,linux,vscode&theme=dark" />
 </p>
 
-### Current Projects
+### things i'm working on
 
-* 📚 Me-Nulis — Islamic article platform
-* ⚽ World Cup Simulator
+* 📚 **Me-Nulis** — Islamic article platform
+* ⚽ **World Cup Simulator**
 * 🔐 Authentication & REST APIs
-* 🐳 Exploring Docker and DevOps
+* 🐳 Learning Docker
 
-### GitHub Stats
+### stats
 
 <p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khidhir-ziyan&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khidhir-ziyan&layout=compact&hide_border=true&theme=transparent"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Khidhir-ziyan&show_icons=true&hide_border=true&theme=transparent"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khidhir-ziyan&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
 ---
 
 ```cpp
-while(alive) {
+while (alive) {
     learn();
     build();
     improve();
