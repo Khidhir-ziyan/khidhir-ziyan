@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Assalamu'alaikum 👋 I'm Khidhir</h1>
 
 <p align="center">
