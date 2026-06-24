@@ -1,40 +1,49 @@
-# 👋 haii, I'm Khidhir
+<h1 align="center">👋 Assalamu'alaikum, I'm Khidhir</h1>
 
-```cpp
-class Khidhir {
-public:
-    string role = "Information Systems Student";
-    string focus = "Backend Development";
-    vector<string> currentlyLearning = {
-        "Node.js",
-        "PostgreSQL",
-        "Docker",
-        "System Design"
-    };
+<p align="center">
+Building useful things with code.
+</p>
 
-    string building = "Me-Nulis";
-};
+<br>
+
+```txt
+🎓 Information Systems Student
+⚙️ Backend Developer
+🌱 Learning System Design & Docker
+🚀 Building Me-Nulis
 ```
 
-### 🚀 Current Focus
+### About
 
-* Building **Me-Nulis**
-* Learning System Design
-* Exploring Backend Engineering
-* Open Source & Useful Software
+Currently interested in backend engineering, distributed systems, and building software that solves real problems.
 
-### 🛠 Tech Stack
+### Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,cpp,python,postgresql,mysql,docker,git,linux,vscode"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,cpp,python,postgresql,mysql,docker,git,linux,vscode&perline=6"/>
 </p>
 
-### 📊 Stats
+### Current Projects
+
+* 📚 Me-Nulis — Islamic article platform
+* ⚽ World Cup Simulator
+* 🔐 Authentication & REST APIs
+* 🐳 Exploring Docker and DevOps
+
+### GitHub Stats
 
 <p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khidhir-ziyan&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khidhir-ziyan&show_icons=true&hide_border=true&theme=transparent"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khidhir-ziyan&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khidhir-ziyan&layout=compact&hide_border=true&theme=transparent"/>
 </p>
 
-> Building useful things, one commit at a time.
+---
+
+```cpp
+while(alive) {
+    learn();
+    build();
+    improve();
+}
+```
